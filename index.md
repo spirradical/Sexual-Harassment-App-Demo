@@ -104,7 +104,7 @@ Please fill out the following information:
     
 </div>
     
-    <h2 7. Contact details provided?</h2>
+    <h2>7. Contact details provided?</h2>
 
     - Yes
     - No
