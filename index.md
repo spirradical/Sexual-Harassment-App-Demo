@@ -209,9 +209,9 @@ Please fill out the following information:
     </style>
    
     
-    <script>
-
-var Quiz = function(){
+    <script
+    
+    var Quiz = function(){
     var self = this;
     this.init = function(){
     self._bindEvents();
