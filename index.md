@@ -45,16 +45,52 @@ Please fill out the following information:
     c. No, I am a contractor
     d. No, I am an interested person
 
-### 2. How did you become aware of the alleged sexual harassment?
+### 2. How did you become aware of the alleged sexual harassment? (tick where applicable)
 
-    
+    - Notification of claim by the Human Rights Commission (Cth)
+    - Notification of a claim by the state body
+    - Workers compensation claim received
+    - Written complaint received from victim or bystander
+    - Verbal complaint received from victim, bystander or affected person
+    - You witnessed or were told of the behaviour
+    - Evidence such as an email, CCTV etc.
 
 ### 3. Where did the potential sexual harassment take place?
 
+    - New South Wales
+    - Queensland
+    - Victoria
+    - Australian Capital territory
+    - South Australia
+    - Western Australia
+    - Northern Territory
+    - Tasmania
+
 ### 4. Have you conducted a workplace investigation?
 
-### 5. Do you have any of the following policies or procedures?
+    - Yes; allegations substantiated
+    - Yes; allegations not substantiated
+    - Yes; yet to be completed
+    - No
+
+### 5. Do you have any of the following policies or procedures? (tick where applicable)
+
+    - Work health and safety policy
+    - Sexual harassment policy
+    - Code of conduct
+    - Disciplinary policy
+    - Complaints or grievance handling
 
 ### 6. Does your organisation provide sexual harassment training?
 
+    - Yes; only at induction
+    - Yes; at least annually
+    - Yes; less than annually
+    - Yes; I don't recall when the last training was held
+    - No
+    - Not sure
+
 ### 7. Contact details provided?
+
+    - Yes
+    - No
