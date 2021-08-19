@@ -104,7 +104,7 @@ Please fill out the following information:
     
 </div>
     
-### 7. Contact details provided?
+    <h2 7. Contact details provided?</h2>
 
     - Yes
     - No
@@ -208,7 +208,7 @@ Please fill out the following information:
     
     
 <script> 
-    var Quiz = function(){
+  var Quiz = function(){
   var self = this;
   this.init = function(){
     self._bindEvents();
@@ -306,5 +306,4 @@ quiz.init();
 </body>
 
 
-</html>
    
