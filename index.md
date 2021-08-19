@@ -48,51 +48,58 @@ Please fill out the following information:
     <li class="quiz-answer" data-quiz-answer="d">d. No, I am an interested person</li>
 </ul>
      
-### 2. How did you become aware of the alleged sexual harassment? (tick where applicable)
-
-    - Notification of claim by the Human Rights Commission (Cth)
-    - Notification of a claim by the state body
-    - Workers compensation claim received
-    - Written complaint received from victim or bystander
-    - Verbal complaint received from victim, bystander or affected person
-    - You witnessed or were told of the behaviour
-    - Evidence such as an email, CCTV etc.
-
-### 3. Where did the potential sexual harassment take place?
-
-    - New South Wales
-    - Queensland
-    - Victoria
-    - Australian Capital territory
-    - South Australia
-    - Western Australia
-    - Northern Territory
-    - Tasmania
-
-### 4. Have you conducted a workplace investigation?
-
-    - Yes; allegations substantiated
-    - Yes; allegations not substantiated
-    - Yes; yet to be completed
-    - No
-
-### 5. Do you have any of the following policies or procedures? (tick where applicable)
-
-    - Work health and safety policy
-    - Sexual harassment policy
-    - Code of conduct
-    - Disciplinary policy
-    - Complaints or grievance handling
-
+<h2 class="quiz-question">2. How did you become aware of the alleged sexual harassment? (tick where applicable)</h2>
+<ul data-quiz-question="2">
+    <li class="quiz-answer" data-quiz-answer="a">a. Notification of claim by the Human Rights Commission (Cth)</li>
+    <li class="quiz-answer" data-quiz-answer="b">b. Notification of a claim by the state body</li>
+    <li class="quiz-answer" data-quiz-answer="c">c. Workers compensation claim received</li>
+    <li class="quiz-answer" data-quiz-answer="d">d. Written complaint received from victim or bystander</li>
+    <li class="quiz-answer" data-quiz-answer="e">e. Verbal complaint received from victim, bystander or affected person</li>
+    <li class="quiz-answer" data-quiz-answer="f">f. You witnessed or were told of the behaviour</li>
+    <li class="quiz-answer" data-quiz-answer="a">g. Evidence such as an email, CCTV etc.</li>
+</ul>
+    
+<h2 class="quiz-question">3. Where did the potential sexual harassment take place?</h2>
+<ul data-quiz-question="3">
+    <li class="quiz-answer" data-quiz-answer="a">a. New South Wales</li>
+    <li class="quiz-answer" data-quiz-answer="b">b. Queensland</li>
+    <li class="quiz-answer" data-quiz-answer="c">c. Victoria</li>
+    <li class="quiz-answer" data-quiz-answer="d">d. Australian Capital territory</li>
+    <li class="quiz-answer" data-quiz-answer="e">e. South Australia</li>
+    <li class="quiz-answer" data-quiz-answer="f">f. Western Australia</li>
+    <li class="quiz-answer" data-quiz-answer="g">g. Northern Territory</li>
+    <li class="quiz-answer" data-quiz-answer="h">h. Tasmania</li>
+</ul>
+    
+<h2 class="quiz-question">4. Have you conducted a workplace investigation?</h2>
+<ul data-quiz-question="4">
+    <li class="quiz-answer" data-quiz-answer="a">a. Yes; allegations substantiated</li>
+    <li class="quiz-answer" data-quiz-answer="b">b. Yes; allegations not substantiated</li>
+    <li class="quiz-answer" data-quiz-answer="c">c. Yes; yet to be completed</li>
+    <li class="quiz-answer" data-quiz-answer="d">d. No</li>
+</ul>
+    
+<h2 class="quiz-question">5. Do you have any of the following policies or procedures? (tick where applicable)</h2>
+<ul data-quiz-question="5">
+    <li class="quiz-answer" data-quiz-answer="a">a. Work health and safety policy</li>
+    <li class="quiz-answer" data-quiz-answer="b">b. Sexual harassment policy</li>
+    <li class="quiz-answer" data-quiz-answer="c">c. Code of conduct</li>
+    <li class="quiz-answer" data-quiz-answer="d">d. Disciplinary policy</li>
+    <li class="quiz-answer" data-quiz-answer="e">e. Complaints or grievance handling</li>
+</ul>
+    
 ### 6. Does your organisation provide sexual harassment training?
-
-    - Yes; only at induction
-    - Yes; at least annually
-    - Yes; less than annually
-    - Yes; I don't recall when the last training was held
-    - No
-    - Not sure
-
+<ul data-quiz-question="5">
+    <li class="quiz-answer" data-quiz-answer="a">a. Yes; only at induction</li>
+    <li class="quiz-answer" data-quiz-answer="b">b. Yes; at least annually</li>
+    <li class="quiz-answer" data-quiz-answer="c">c. Yes; less than annually</li>
+    <li class="quiz-answer" data-quiz-answer="d">d. Yes; I don't recall when the last training was held</li>
+    <li class="quiz-answer" data-quiz-answer="e">e. No</li>
+    <li class="quiz-answer" data-quiz-answer="f">f. Not sure</li>
+</ul>
+    
+</div>
+    
 ### 7. Contact details provided?
 
     - Yes
