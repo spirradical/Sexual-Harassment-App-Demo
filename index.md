@@ -104,10 +104,10 @@ Please fill out the following information:
     
 </div>
     
-    <h2>7. Contact details provided?</h2>
+    <h2lass="quiz-question">7. Contact details provided?</h2>
 
-    - Yes
-    - No
+    <li class="quiz-answer" data-quiz-answer="a">Yes</li>
+    <li class="quiz-answer" data-quiz-answer="b">No</li>
     
 <div class="quiz-result"></div>
 
