@@ -38,12 +38,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Please fill out the following information:
 
-### 1. Are you an employer?
+<div class="quiz"
 
-    a. Yes
-    b. No, I am an employee
-    c. No, I am a contractor
-    d. No, I am an interested person
+<### class="quiz-question">1. Are you an employer?</###>
+<ul> data-quiz-question="1">
+    <li class="quiz-answer" data-quiz-answer="a">a. Yes</li>
+    <li class="quiz-answer" data-quiz-answer="b">b. No, I am an employee</li>
+    <li class="quiz-answer" data-quiz-answer="c">c. No, I am a contractor</li>
+    <li class="quiz-answer" data-quiz-answer="d">d. No, I am an interested person</li>
+</u>
+     
+</div    
 
 ### 2. How did you become aware of the alleged sexual harassment? (tick where applicable)
 
