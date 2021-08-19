@@ -41,7 +41,7 @@ Please fill out the following information:
 <div class="quiz">
 
 <h2 class="quiz-question">1. Are you an employer?</h2>
-<ul> data-quiz-question="1">
+<ul data-quiz-question="1">
     <li class="quiz-answer" data-quiz-answer="a">a. Yes</li>
     <li class="quiz-answer" data-quiz-answer="b">b. No, I am an employee</li>
     <li class="quiz-answer" data-quiz-answer="c">c. No, I am a contractor</li>
