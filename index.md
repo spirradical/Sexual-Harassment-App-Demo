@@ -73,9 +73,9 @@ Please fill out the following information:
     
 <h2 class="quiz-question">4. Have you conducted a workplace investigation?</h2>
 <ul data-quiz-question="4">
-    <li class="quiz-answer" data-quiz-answer="a">a. Yes; allegations substantiated</li>
-    <li class="quiz-answer" data-quiz-answer="b">b. Yes; allegations not substantiated</li>
-    <li class="quiz-answer" data-quiz-answer="c">c. Yes; yet to be completed</li>
+    <li class="quiz-answer" data-quiz-answer="a">a. Yes - allegations substantiated</li>
+    <li class="quiz-answer" data-quiz-answer="b">b. Yes - allegations not substantiated</li>
+    <li class="quiz-answer" data-quiz-answer="c">c. Yes - yet to be completed</li>
     <li class="quiz-answer" data-quiz-answer="d">d. No</li>
 </ul>
     
@@ -90,10 +90,10 @@ Please fill out the following information:
     
 <h2 class="quiz-question">6. Does your organisation provide sexual harassment training?</h2>
 <ul data-quiz-question="6">
-    <li class="quiz-answer" data-quiz-answer="a">a. Yes; only at induction</li>
-    <li class="quiz-answer" data-quiz-answer="b">b. Yes; at least annually</li>
-    <li class="quiz-answer" data-quiz-answer="c">c. Yes; less than annually</li>
-    <li class="quiz-answer" data-quiz-answer="d">d. Yes; I don't recall when the last training was held</li>
+    <li class="quiz-answer" data-quiz-answer="a">a. Yes - only at induction</li>
+    <li class="quiz-answer" data-quiz-answer="b">b. Yes - at least annually</li>
+    <li class="quiz-answer" data-quiz-answer="c">c. Yes - less than annually</li>
+    <li class="quiz-answer" data-quiz-answer="d">d. Yes - I don't recall when the last training was held</li>
     <li class="quiz-answer" data-quiz-answer="e">e. No</li>
     <li class="quiz-answer" data-quiz-answer="f">f. Not sure</li>
 </ul>
