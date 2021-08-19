@@ -1,4 +1,4 @@
-<html lang="en">
+
     
 ## Welcome to the Sexual Harassment Application
 
