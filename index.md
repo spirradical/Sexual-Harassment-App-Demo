@@ -46,7 +46,7 @@ Please fill out the following information:
     <li class="quiz-answer" data-quiz-answer="b">b. No, I am an employee</li>
     <li class="quiz-answer" data-quiz-answer="c">c. No, I am a contractor</li>
     <li class="quiz-answer" data-quiz-answer="d">d. No, I am an interested person</li>
-</u>
+</ul>
      
 ### 2. How did you become aware of the alleged sexual harassment? (tick where applicable)
 
