@@ -48,8 +48,6 @@ Please fill out the following information:
     <li class="quiz-answer" data-quiz-answer="d">d. No, I am an interested person</li>
 </u>
      
-</div>    
-
 ### 2. How did you become aware of the alleged sexual harassment? (tick where applicable)
 
     - Notification of claim by the Human Rights Commission (Cth)
