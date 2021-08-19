@@ -38,9 +38,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Please fill out the following information:
 
-### 1. Are you an Employer?
+### 1. Are you an employer?
+
+    a. Yes
+    b. No, I am an employee
+    c. No, I am a contractor
+    d. No, I am an interested person
 
 ### 2. How did you become aware of the alleged sexual harassment?
+
+    
 
 ### 3. Where did the potential sexual harassment take place?
 
