@@ -36,4 +36,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 -->
 
+Please fill out the following information:
 
+###  Are you an Employer?
+
+###  How did you become aware of the alleged sexual harassment?
+
+###  Where did the potential sexual harassment take place?
+
+###  Have you conducted a workplace investigation?
+
+###  Do you have any of the following policies or procedures?
+
+###  Does your organisation provide sexual harassment training?
+
+###  Contact details provided?
