@@ -1,8 +1,8 @@
 ## Welcome to the Sexual Harassment Application
 
-Use the [editor on GitHub](https://github.com/spirradical/Sexual-Harassment-App-Demo/edit/gh-pages/index.md) to maintain and preview the content for this website in Markdown files.
+<!-- Use the [editor on GitHub](https://github.com/spirradical/Sexual-Harassment-App-Demo/edit/gh-pages/index.md) to maintain and preview the content for this website in Markdown files.
 
-<!-- ### Markdown
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
