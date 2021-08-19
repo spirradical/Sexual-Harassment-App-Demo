@@ -38,9 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Please fill out the following information:
 
-<div class="quiz"
+<div class="quiz">
 
-<### class="quiz-question">1. Are you an employer?</###>
+<h2 class="quiz-question">1. Are you an employer?</h2>
 <ul> data-quiz-question="1">
     <li class="quiz-answer" data-quiz-answer="a">a. Yes</li>
     <li class="quiz-answer" data-quiz-answer="b">b. No, I am an employee</li>
@@ -48,7 +48,7 @@ Please fill out the following information:
     <li class="quiz-answer" data-quiz-answer="d">d. No, I am an interested person</li>
 </u>
      
-</div    
+</div>    
 
 ### 2. How did you become aware of the alleged sexual harassment? (tick where applicable)
 
