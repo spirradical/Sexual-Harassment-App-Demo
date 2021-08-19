@@ -88,8 +88,8 @@ Please fill out the following information:
     <li class="quiz-answer" data-quiz-answer="e">e. Complaints or grievance handling</li>
 </ul>
     
-### 6. Does your organisation provide sexual harassment training?
-<ul data-quiz-question="5">
+<h2 class="quiz-question">6. Does your organisation provide sexual harassment training?</h2>
+<ul data-quiz-question="6">
     <li class="quiz-answer" data-quiz-answer="a">a. Yes; only at induction</li>
     <li class="quiz-answer" data-quiz-answer="b">b. Yes; at least annually</li>
     <li class="quiz-answer" data-quiz-answer="c">c. Yes; less than annually</li>
