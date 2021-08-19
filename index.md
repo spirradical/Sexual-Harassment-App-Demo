@@ -1,4 +1,6 @@
 <html lang="en">
+    
+## Welcome to the Sexual Harassment Application
 
 
 <!-- Use the [editor on GitHub](https://github.com/spirradical/Sexual-Harassment-App-Demo/edit/gh-pages/index.md) to maintain and preview the content for this website in Markdown files.
@@ -40,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <head>
 
-## Welcome to the Sexual Harassment Application
+
 
 Please fill out the following information:
     
