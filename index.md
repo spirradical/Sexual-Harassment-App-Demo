@@ -41,13 +41,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <head>
-
+<Link href="special.css" rel="stylesheet" type="text/css">
 
 
 Please fill out the following information:
     
-
-
+    
 <div class="quiz">
     
     
@@ -208,7 +207,7 @@ Please fill out the following information:
     <li class="quiz-answer" data-quiz-answer="f">Not sure</li>
 </ul>
     
-</div>
+<!-- </div> -->
     
 <h2 class="quiz-question">7. Contact details provided?</h2>
 <ul data-quiz-question="7">
