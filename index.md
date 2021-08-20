@@ -114,7 +114,20 @@ Please fill out the following information:
   <label for="answer4"> Yes - yet to be completed</label><br>
   <input type="checkbox" id="answer5" name="answer5" value="No">
   <label for="answer4"> No</label><br><br>
-  
+    
+<h2 class="quiz-question">5. Do you have any of the following policies or procedures? (tick where applicable)</h2>
+    
+<form action="/action_page.php">
+  <input type="checkbox" id="answer1" name="answer1" value="Work health and safety policy">
+  <label for="answer1"> Work health and safety policy</label><br>
+  <input type="checkbox" id="answer2" name="answer2" value="Sexual harassment policy">
+  <label for="answer2"> Sexual harassment policy</label><br>
+  <input type="checkbox" id="answer3" name="answer3" value="Code of conduct">
+  <label for="answer3"> Code of conduct</label><br>
+  <input type="checkbox" id="answer4" name="answer4" value="Disciplinary policy">
+  <label for="answer4"> Disciplinary policy</label><br>
+  <input type="checkbox" id="answer5" name="answer5" value="Complaints or grievance handling">
+  <label for="answer4"> Complaints or grievance handling</label><br><br>
       
     
 </form>
