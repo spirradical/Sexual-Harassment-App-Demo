@@ -46,6 +46,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Please fill out the following information:
     
+<style>
+  input.larger {
+    width: 50px;
+    height: 50px;
+}
+</style>
+    
     
 <div class="quiz">
     
