@@ -41,17 +41,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="default.css">
 
 
 Please fill out the following information:
     
-<style>
-  input.checkbox {
-    width: 50px;
-    height: 50px;
-}
-</style>
+
     
     
 <div class="quiz">
