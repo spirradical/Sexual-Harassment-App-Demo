@@ -61,9 +61,23 @@ Please fill out the following information:
   <input type="checkbox" id="answer3" name="answer3" value="No, I am a contractor">
   <label for="vehicle3"> No, I am a contractor</label><br>
   <input type="checkbox" id="answer4" name="answer4" value="No, I am an interested person">
-  <label for="vehicle3"> No, I am an interested person</label><br><br>  
+  <label for="answer4"> No, I am an interested person</label><br><br>  
     
 <!--  <input type="submit" value="Submit"> -->
+    
+<h2 class="quiz-question">2. How did you become aware of the alleged sexual harassment? (tick where applicable)</h2>    
+    
+<form action="/action_page.php">
+  <input type="checkbox" id="answer1" name="answer1" value="Yes">
+  <label for="vehicle1"> Yes</label><br>
+  <input type="checkbox" id="answer2" name="answer2" value="No, I am an employee">
+  <label for="vehicle2"> No, I am an employee</label><br>
+  <input type="checkbox" id="answer3" name="answer3" value="No, I am a contractor">
+  <label for="vehicle3"> No, I am a contractor</label><br>
+  <input type="checkbox" id="answer4" name="answer4" value="No, I am an interested person">
+  <label for="answer4"> No, I am an interested person</label><br><br>  
+    
+    
 </form>
 
     
