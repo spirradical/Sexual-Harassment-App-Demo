@@ -128,7 +128,23 @@ Please fill out the following information:
   <label for="answer4"> Disciplinary policy</label><br>
   <input type="checkbox" id="answer5" name="answer5" value="Complaints or grievance handling">
   <label for="answer4"> Complaints or grievance handling</label><br><br>
-      
+
+<h2 class="quiz-question">6. Does your organisation provide sexual harassment training?</h2>
+    
+<form action="/action_page.php">
+  <input type="checkbox" id="answer1" name="answer1" value="Yes - only at induction">
+  <label for="answer1"> Yes - only at induction</label><br>
+  <input type="checkbox" id="answer2" name="answer2" value="Yes - at least annually">
+  <label for="answer2"> Yes - at least annually</label><br>
+  <input type="checkbox" id="answer3" name="answer3" value="Yes - less than annually">
+  <label for="answer3"> Yes - less than annually</label><br>
+  <input type="checkbox" id="answer4" name="answer4" value="Yes - I don't recall when the last training was held">
+  <label for="answer4"> Yes - I don't recall when the last training was held</label><br>  
+  <input type="checkbox" id="answer5" name="answer5" value="No">
+  <label for="answer5"> No</label><br>  
+  <input type="checkbox" id="answer6" name="answer6" value="Not sure">
+  <label for="answer6"> Not sure</label><br><br>    
+  
     
 </form>
 
