@@ -68,43 +68,39 @@ Please fill out the following information:
 <h2 class="quiz-question">2. How did you become aware of the alleged sexual harassment? (tick where applicable)</h2>    
     
 <form action="/action_page.php">
-  <input type="checkbox" id="answer1" name="answer1" value="Yes">
+  <input type="checkbox" id="answer1" name="answer1" value="Notification of claim by the Human Rights Commission (Cth)">
   <label for="answer1"> Notification of claim by the Human Rights Commission (Cth)</label><br>
-  <input type="checkbox" id="answer2" name="answer2" value="No, I am an employee">
+  <input type="checkbox" id="answer2" name="answer2" value="Notification of a claim by the state body">
   <label for="answer2"> Notification of a claim by the state body</label><br>
-  <input type="checkbox" id="answer3" name="answer3" value="No, I am a contractor">
+  <input type="checkbox" id="answer3" name="answer3" value="Workers compensation claim received">
   <label for="answer3"> Workers compensation claim received</label><br>
-  <input type="checkbox" id="answer4" name="answer4" value="No, I am an interested person">
+  <input type="checkbox" id="answer4" name="answer4" value="Written complaint received from victim or bystander">
   <label for="answer4"> Written complaint received from victim or bystander</label><br>  
-  <input type="checkbox" id="answer5" name="answer5" value="No, I am an interested person">
+  <input type="checkbox" id="answer5" name="answer5" value="Verbal complaint received from victim, bystander or affected person">
   <label for="answer5"> Verbal complaint received from victim, bystander or affected person</label><br>  
-  <input type="checkbox" id="answer6" name="answer6" value="No, I am an interested person">
+  <input type="checkbox" id="answer6" name="answer6" value="You witnessed or were told of the behaviour">
   <label for="answer6"> You witnessed or were told of the behaviour</label><br>    
-  <input type="checkbox" id="answer7" name="answer7" value="No, I am an interested person">
+  <input type="checkbox" id="answer7" name="answer7" value="Evidence such as an email, CCTV etc.">
   <label for="answer7"> Evidence such as an email, CCTV etc.</label><br><br>    
     
     
 <h2 class="quiz-question">3. Where did the potential sexual harassment take place?</h2>   
   <form action="/action_page.php">
-  <input type="checkbox" id="answer1" name="answer1" value="Yes">
+  <input type="checkbox" id="answer1" name="answer1" value="New South Wales">
   <label for="answer1"> New South Wales</label><br>
-  <input type="checkbox" id="answer2" name="answer2" value="No, I am an employee">
+  <input type="checkbox" id="answer2" name="answer2" value="Queensland">
   <label for="answer2"> Queensland</label><br>
-  <input type="checkbox" id="answer3" name="answer3" value="No, I am a contractor">
+  <input type="checkbox" id="answer3" name="answer3" value="Victoria">
   <label for="answer3"> Victoria</label><br>
-  <input type="checkbox" id="answer4" name="answer4" value="No, I am an interested person">
-  <label for="answer4"> Australian Capital Territory</label><br><br> 
-      
-  <input type="checkbox" id="answer5" name="answer5" value="No, I am an interested person">
-  <label for="answer5"> South Australia</label><br><br> 
-      
-  <input type="checkbox" id="answer6" name="answer6" value="No, I am an interested person">
-  <label for="answer6"> Western Australia</label><br><br> 
-      
-  <input type="checkbox" id="answer7" name="answer7" value="No, I am an interested person">
-  <label for="answer7"> Northern Territory</label><br><br> 
-      
-  <input type="checkbox" id="answer8" name="answer8" value="No, I am an interested person">
+  <input type="checkbox" id="answer4" name="answer4" value="Australian Capital Territory">
+  <label for="answer4"> Australian Capital Territory</label><br> 
+  <input type="checkbox" id="answer5" name="answer5" value="South Australia">
+  <label for="answer5"> South Australia</label><br>
+  <input type="checkbox" id="answer6" name="answer6" value="Western Australia">
+  <label for="answer6"> Western Australia</label><br> 
+  <input type="checkbox" id="answer7" name="answer7" value="Northern Territory">
+  <label for="answer7"> Northern Territory</label><br> 
+  <input type="checkbox" id="answer8" name="answer8" value="Tasmania">
   <label for="answer8"> Tasmania</label><br><br> 
       
       
