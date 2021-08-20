@@ -54,12 +54,14 @@ Please fill out the following information:
 <h2 class="quiz-question">1. Are you an employer?</h2>    
     
 <form action="/action_page.php">
-  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <input type="checkbox" id="answer1" name="answer1" value="Yes">
   <label for="vehicle1"> Yes</label><br>
-  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <input type="checkbox" id="answer2" name="answer2" value="No, I am an employee">
   <label for="vehicle2"> No, I am an employee</label><br>
-  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <input type="checkbox" id="answer3" name="answer3" value="No, I am a contractor">
   <label for="vehicle3"> No, I am a contractor</label><br><br>
+  <input type="checkbox" id="answer4" name="answer4" value="No, I am an interested person">
+  <label for="vehicle3"> No, I am an interested person</label><br><br>  
     
 <!--  <input type="submit" value="Submit"> -->
 </form>
