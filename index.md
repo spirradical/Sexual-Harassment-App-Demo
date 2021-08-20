@@ -62,7 +62,6 @@ Please fill out the following information:
   <label for="answer3"> No, I am a contractor</label><br>
   <input type="checkbox" id="answer4" name="answer4" value="No, I am an interested person">
   <label for="answer4"> No, I am an interested person</label><br><br>  
-    
 <!--  <input type="submit" value="Submit"> -->
     
 <h2 class="quiz-question">2. How did you become aware of the alleged sexual harassment? (tick where applicable)</h2>    
@@ -83,7 +82,6 @@ Please fill out the following information:
   <input type="checkbox" id="answer7" name="answer7" value="Evidence such as an email, CCTV etc.">
   <label for="answer7"> Evidence such as an email, CCTV etc.</label><br><br>    
     
-    
 <h2 class="quiz-question">3. Where did the potential sexual harassment take place?</h2>   
   <form action="/action_page.php">
   <input type="checkbox" id="answer1" name="answer1" value="New South Wales">
@@ -103,7 +101,20 @@ Please fill out the following information:
   <input type="checkbox" id="answer8" name="answer8" value="Tasmania">
   <label for="answer8"> Tasmania</label><br><br> 
       
+<h2 class="quiz-question">4. Have you conducted a workplace investigation?</h2>
       
+<form action="/action_page.php">
+  <input type="checkbox" id="answer1" name="answer1" value="Yes - allegations substantiated">
+  <label for="answer1"> Yes - allegations substantiated</label><br>
+  <input type="checkbox" id="answer2" name="answer2" value="Yes - allegations not substantiated">
+  <label for="answer2"> Yes - allegations not substantiated</label><br>
+  <input type="checkbox" id="answer3" name="answer3" value="Yes - allegations unable to be substantiated">
+  <label for="answer3"> Yes - allegations unable to be substantiated</label><br>
+  <input type="checkbox" id="answer4" name="answer4" value="Yes - yet to be completed">
+  <label for="answer4"> Yes - yet to be completed</label><br>
+  <input type="checkbox" id="answer5" name="answer5" value="No">
+  <label for="answer4"> No</label><br><br>
+  
       
     
 </form>
