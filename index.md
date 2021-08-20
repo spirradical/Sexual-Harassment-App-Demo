@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <head>
-<Link href="special.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/style.css" />
 
 
 Please fill out the following information:
