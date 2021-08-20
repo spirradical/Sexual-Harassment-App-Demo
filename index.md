@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <head>
-<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
 Please fill out the following information:
