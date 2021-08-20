@@ -59,7 +59,7 @@ Please fill out the following information:
   <input type="checkbox" id="answer2" name="answer2" value="No, I am an employee">
   <label for="vehicle2"> No, I am an employee</label><br>
   <input type="checkbox" id="answer3" name="answer3" value="No, I am a contractor">
-  <label for="vehicle3"> No, I am a contractor</label><br><br>
+  <label for="vehicle3"> No, I am a contractor</label><br>
   <input type="checkbox" id="answer4" name="answer4" value="No, I am an interested person">
   <label for="vehicle3"> No, I am an interested person</label><br><br>  
     
