@@ -148,74 +148,7 @@ Please fill out the following information:
   
     
 </form>
-
     
-
-<h2 class="quiz-question">1. Are you an employer?</h2>
-<ul data-quiz-question="1">
-    <li class="quiz-answer" data-quiz-answer="a">Yes</li>
-    <li class="quiz-answer" data-quiz-answer="b">No, I am an employee</li>
-    <li class="quiz-answer" data-quiz-answer="c">No, I am a contractor</li>
-    <li class="quiz-answer" data-quiz-answer="d">No, I am an interested person</li>
-</ul>
-     
-<h2 class="quiz-question">2. How did you become aware of the alleged sexual harassment? (tick where applicable)</h2>
-<ul data-quiz-question="2">
-    <li class="quiz-answer" data-quiz-answer="a">Notification of claim by the Human Rights Commission (Cth)</li>
-    <li class="quiz-answer" data-quiz-answer="b">Notification of a claim by the state body</li>
-    <li class="quiz-answer" data-quiz-answer="c">Workers compensation claim received</li>
-    <li class="quiz-answer" data-quiz-answer="d">Written complaint received from victim or bystander</li>
-    <li class="quiz-answer" data-quiz-answer="e">Verbal complaint received from victim, bystander or affected person</li>
-    <li class="quiz-answer" data-quiz-answer="f">You witnessed or were told of the behaviour</li>
-    <li class="quiz-answer" data-quiz-answer="a">Evidence such as an email, CCTV etc.</li>
-</ul>
-    
-<h2 class="quiz-question">3. Where did the potential sexual harassment take place?</h2>
-<ul data-quiz-question="3">
-    <li class="quiz-answer" data-quiz-answer="a">New South Wales</li>
-    <li class="quiz-answer" data-quiz-answer="b">Queensland</li>
-    <li class="quiz-answer" data-quiz-answer="c">Victoria</li>
-    <li class="quiz-answer" data-quiz-answer="d">Australian Capital territory</li>
-    <li class="quiz-answer" data-quiz-answer="e">South Australia</li>
-    <li class="quiz-answer" data-quiz-answer="f">Western Australia</li>
-    <li class="quiz-answer" data-quiz-answer="g">Northern Territory</li>
-    <li class="quiz-answer" data-quiz-answer="h">Tasmania</li>
-</ul>
-    
-<h2 class="quiz-question">4. Have you conducted a workplace investigation?</h2>
-<ul data-quiz-question="4">
-    <li class="quiz-answer" data-quiz-answer="a">Yes - allegations substantiated</li>
-    <li class="quiz-answer" data-quiz-answer="b">Yes - allegations not substantiated</li>
-    <li class="quiz-answer" data-quiz-answer="c">Yes - yet to be completed</li>
-    <li class="quiz-answer" data-quiz-answer="d">No</li>
-</ul>
-    
-<h2 class="quiz-question">5. Do you have any of the following policies or procedures? (tick where applicable)</h2>
-<ul data-quiz-question="5">
-    <li class="quiz-answer" data-quiz-answer="a">Work health and safety policy</li>
-    <li class="quiz-answer" data-quiz-answer="b">Sexual harassment policy</li>
-    <li class="quiz-answer" data-quiz-answer="c">Code of conduct</li>
-    <li class="quiz-answer" data-quiz-answer="d">Disciplinary policy</li>
-    <li class="quiz-answer" data-quiz-answer="e">Complaints or grievance handling</li>
-</ul>
-    
-<h2 class="quiz-question">6. Does your organisation provide sexual harassment training?</h2>
-<ul data-quiz-question="6">
-    <li class="quiz-answer" data-quiz-answer="a">Yes - only at induction</li>
-    <li class="quiz-answer" data-quiz-answer="b">Yes - at least annually</li>
-    <li class="quiz-answer" data-quiz-answer="c">Yes - less than annually</li>
-    <li class="quiz-answer" data-quiz-answer="d">Yes - I don't recall when the last training was held</li>
-    <li class="quiz-answer" data-quiz-answer="e">No</li>
-    <li class="quiz-answer" data-quiz-answer="f">Not sure</li>
-</ul>
-    
-<!-- </div> -->
-    
-<h2 class="quiz-question">7. Contact details provided?</h2>
-<ul data-quiz-question="7">
-    <li class="quiz-answer" data-quiz-answer="a">Yes</li>
-    <li class="quiz-answer" data-quiz-answer="b">No</li>
-</ul>
     
 <div class="quiz-result"></div>
 
