@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" type = "text/css" href="style.css">
     
 ## Welcome to the Sexual Harassment Application
 
@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <head>
-<link rel="stylesheet" href="default.css">
+
 
 
 Please fill out the following information:
